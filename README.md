@@ -12,10 +12,17 @@ Our project uses the “Real or Fake: Fake Job Description Prediction” dataset
 
 #### Baseline Result :
 
-
+![Baseline](https://github.com/TommyJiang91/Fake_Job_Posting_Detection/blob/master/images/Baseline.png)
 
 #### Final Model Result:
 
+![Final](https://github.com/TommyJiang91/Fake_Job_Posting_Detection/blob/master/images/Final.png)
+
+
+#### Findings:
+
+1.	In our dataset, the Count Vectorizer outperformed Tokenizer, which indicates that fake job postings use similar words, but the wording and paraphrasing of the content has little explanation power of whether the job posting is fake or real.
+2.	Neural network model has better performance than regular models such as random forest model with F1 score of 0.78 vs 0.65.
 
 
 ### Documents (Codes in the format of jupyter notebooks):
