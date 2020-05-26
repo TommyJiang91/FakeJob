@@ -1,6 +1,24 @@
-# Code repository for CS 7650 NLP Course Project
+# Fake Job Posting Detection
 
-Documents (Codes in the format of jupyter notebooks):
+### Introduction:
+
+The risk of online recruitment fraud arises as companies are highly dependent on online and automated systems in the hiring processes. Such fraud not only negatively impact job seekers, but also causes harm to the reputation of the hiring organizations. 
+
+Our motivation is to build an effective classification model to identify fake job postings to prevent any potential risk of the frauds. For this project, we used advanced word embedding techniques and neural network models and bring in additional predictors to identify fake job postings more effectively. 
+
+Our project uses the “Real or Fake: Fake Job Description Prediction” dataset from Kaggle (https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction), which contains 18 thousand job descriptions across 18 features with disk size of 50.1 MB. The data is imbalanced with only 866 fake postings. Below is the word cloud of the fake job postings from the dataset.
+
+### Results:
+
+#### Baseline Result :
+
+
+
+#### Final Model Result:
+
+
+
+### Documents (Codes in the format of jupyter notebooks):
 
 1. Data_Cleaning_and_Salary_Matching_Final.ipynb:
   a. Data cleaning
