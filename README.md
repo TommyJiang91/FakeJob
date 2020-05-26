@@ -16,7 +16,7 @@ Our project uses the “Real or Fake: Fake Job Description Prediction” dataset
 
 #### Final Model Result:
 
-![Final](https://github.com/TommyJiang91/Fake_Job_Posting_Detection/blob/master/images/Final.png)
+![Final](https://github.com/TommyJiang91/Fake_Job_Posting_Detection/blob/master/images/Result.png)
 
 
 #### Findings:
